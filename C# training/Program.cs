@@ -25,5 +25,3 @@ foreach (string i in cars)
 {
   Console.WriteLine(i);
 }
-
-//Vincent
