@@ -30,3 +30,7 @@ foreach (string i in cars)
 {
   Console.WriteLine(i);
 }
+
+string message = "Værdien er";
+int32 val = 30;
+Console.Write(message+val);
