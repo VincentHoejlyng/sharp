@@ -12,3 +12,4 @@
 /Users/vincentthomasbuhlhojlyng/Documents/C# training/C# training/obj/Debug/net8.0/C# training.pdb
 /Users/vincentthomasbuhlhojlyng/Documents/C# training/C# training/obj/Debug/net8.0/C# training.genruntimeconfig.cache
 /Users/vincentthomasbuhlhojlyng/Documents/C# training/C# training/obj/Debug/net8.0/ref/C# training.dll
+/Users/vincentthomasbuhlhojlyng/Documents/C# training/C# training/obj/Debug/net8.0/C# training.sourcelink.json
