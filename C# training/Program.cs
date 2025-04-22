@@ -34,3 +34,4 @@ foreach (string i in cars)
 string message = "Værdien er";
 int32 val = 30;
 Console.Write(message+val);
+//test
