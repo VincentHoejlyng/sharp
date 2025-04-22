@@ -6,6 +6,10 @@ Console.WriteLine ("Hvor gammel er du?");
 int myInt = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Du hedder" + variableTest + "og er" + myInt + "år gammel");
 
+Int32 num=30;
+Console.WriteLine (num);
+Console.ReadKey();
+
 Console.WriteLine("Indtast et tal som repræsenterer X");
 int x = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Indtast et tal som repræsenterer Y");
